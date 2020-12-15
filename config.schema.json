@@ -5,11 +5,17 @@
   "schema": {
     "type": "object",
     "properties": {
-      "name": {
-        "title": "Name",
+      "htServiceId": {
+        "title": "ID",
         "type": "string",
         "required": true,
-        "default": "Example Dynamic Platform"
+        "default": "ID"
+      },
+      "htServicePassword": {
+        "title": "Password",
+        "type": "string",
+        "required": true,
+        "default": "Password"
       }
     }
   }
