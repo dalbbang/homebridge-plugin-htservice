@@ -2,7 +2,7 @@
   "private": true,
   "displayName": "HT Service Plugin",
   "name": "homebridge-plugin-htservice",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "For HT Service",
   "license": "Apache-2.0",
   "repository": {
